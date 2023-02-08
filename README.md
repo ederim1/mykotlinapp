@@ -5,7 +5,7 @@ This is the emergency button app
 In Mexico Nationwide, more than 24,000 women are missing, according to government figures, and last year, roughly 2,800 women were reported missing
 This App pretends to help to find people when they are in an emergency situation specially if they are close to be kidnapped.
 
-You can watch a demo of this program here: [Software Demo Video](https://vimeo.com/)
+You can watch a demo of this program here: [Software Demo Video]([https://vimeo.com/](https://vimeo.com/796857591/37f1a81353))
 
 # Development Environment
 
@@ -18,6 +18,6 @@ You can watch a demo of this program here: [Software Demo Video](https://vimeo.c
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [code.visualstudio.com](https://code.visualstudio.com/docs/editor/whyvscode)
+* [kotlin.org]([https://code.visualstudio.com/docs/editor/whyvscode](https://kotlinlang.org/))
 * [vimeo.com](https://vimeo.com/)
 
